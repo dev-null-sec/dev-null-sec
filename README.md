@@ -19,10 +19,10 @@
 
 ```text
 devnull@github:~$ whoami
-运维方向出身，平时写一些 AI 开发工具、自动化脚本和云原生相关笔记。
+网安方向出身，目前从事运维，平时写一些 AI 开发工具、自动化脚本和云原生相关笔记。
 
 devnull@github:~$ ls focus
-ai-dev-workflow  sre-notes  kubernetes  observability  authorized-security-testing
+ai-harness-engineering  sre-notes  kubernetes  observability  security-research
 ```
 
 ## About
@@ -37,7 +37,6 @@ ai-dev-workflow  sre-notes  kubernetes  observability  authorized-security-testi
 | --- | --- |
 | [ai-board](https://github.com/dev-null-sec/ai-board) | 给 AI agent 用的本地项目看板和流程管理工具。它记录任务、scope、状态和验收结果，让 AI 开发过程别只留在聊天记录里。 |
 | [pents-agent](https://github.com/dev-null-sec/pents-agent) | 面向授权 Web/API 安全测试的 AI 工作环境。给 Claude Code 这类 agent 准备 scope、skill、字典、证据记录和报告模板。 |
-| [KubeQuest](https://github.com/dev-null-sec/KubeQuest) | 浏览器里的 Kubernetes / kubectl 练习模拟器。目前偏 demo 和实验性质，用来做命令练习、交互学习和前端展示尝试。 |
 
 > `pents-agent` 只用于授权安全测试。
 
@@ -89,9 +88,9 @@ ai-dev-workflow  sre-notes  kubernetes  observability  authorized-security-testi
 ## Recent Focus
 
 ```text
-> AI 辅助开发流程
+> AI Harness Engineering
 > 运维自动化
 > Kubernetes / 云原生
 > SRE 知识库整理
-> 授权 Web/API 安全测试流程
+> 网络安全研究
 ```
